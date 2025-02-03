@@ -1,2 +1,2 @@
 # Project-1
-Using Html, CSS, JavaScript With Responsive 
+Using Html, CSS,  With Responsive 
